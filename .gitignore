@@ -1,5 +1,8 @@
+# Arquivos do R
 .Rproj.user
 .Rhistory
 .RData
 .Ruserdata
+
+# Posit AI
 .positai
